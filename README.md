@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://erwins-portfolio.vercel.app/](https://erwins-portfolio.vercel.app/){:target="_blank"}
+- 👨‍💻 All of my projects are available at <a href="https://erwins-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">erwins-portfolio.vercel.app</a>
 
 - 📫 How to reach me **Erwin.ucelo@gmail.com**
 
